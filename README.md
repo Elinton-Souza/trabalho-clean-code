@@ -33,7 +33,7 @@ Trabalho realizado por um grupo de 5 alunos, onde cada um ficou responsável por
 
 ![Prévia do projeto](preview.jpg)
 
-## Contribuidores
+## Contribuidores!!!
 
 <a href="https://github.com/Elinton-Souza"><img src="https://github.com/Elinton-Souza.png" width="45" height="45"></a> &nbsp;
 <a href="https://github.com/wagnerloch"><img src="https://github.com/wagnerloch.png" width="45" height="45"></a> &nbsp;
